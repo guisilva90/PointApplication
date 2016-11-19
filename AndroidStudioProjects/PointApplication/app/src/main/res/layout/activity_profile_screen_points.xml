@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_profile_screen_points"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/layer_1"
+    tools:context="com.example.guimbalino.pointapplication.ProfileScreenPoints">
+
+
+    <ImageView
+        android:id="@+id/imagemusuario"
+        android:layout_width="match_parent"
+        android:layout_height="251dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true" />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="251dp"
+        android:background="#CC102463"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true"
+        android:id="@+id/cimaperfil" />
+
+    <ImageView
+        android:layout_width="109dp"
+        android:layout_height="109dp"
+        android:background="@drawable/point_icon4"
+        android:layout_marginTop="61dp"
+        android:id="@+id/imageView21"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:text=""
+        android:background="@drawable/rounded_rectangle_12"
+        android:textAlignment="center"
+        android:textColor="#EFF6EE"
+        android:layout_width="146.7dp"
+        android:layout_height="21.3dp"
+        android:layout_below="@+id/imageView21"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="21dp"
+        android:id="@+id/nomeusuario" />
+
+    <Button
+
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:id="@+id/btnOption"
+        android:background="@drawable/ic_option_menu"
+        android:layout_marginEnd="15dp"
+        android:layout_marginTop="13dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true" />
+
+    <Button
+        android:background="@drawable/backarrow"
+        android:layout_width="10.7dp"
+        android:layout_height="16dp"
+        android:id="@+id/btnVoltar"
+        android:layout_alignTop="@+id/btnOption"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="15dp"
+        android:layout_marginTop="1dp" />
+
+    <ImageView
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:id="@+id/imagemusuario2"
+        android:layout_marginTop="27dp"
+        android:layout_alignTop="@+id/imageView21"
+        android:layout_centerHorizontal="true" />
+
+    <ImageView
+        android:layout_width="45.7dp"
+        android:layout_height="38.3dp"
+        app:srcCompat="@drawable/points_2"
+        android:id="@+id/imageView20"
+        android:layout_alignBottom="@+id/imagemusuario2"
+        android:layout_toStartOf="@+id/nomeusuario"
+        android:layout_marginEnd="23dp"
+        android:layout_marginBottom="8dp" />
+
+    <ImageView
+        android:layout_width="68.8dp"
+        android:layout_height="38.3dp"
+        app:srcCompat="@drawable/pointcode"
+        android:id="@+id/imageView22"
+        android:layout_marginStart="12dp"
+        android:layout_alignTop="@+id/imageView20"
+        android:layout_toEndOf="@+id/nomeusuario" />
+
+</RelativeLayout>

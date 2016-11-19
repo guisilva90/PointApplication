@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/layer_1"
+    android:focusable="true"
+    android:orientation="vertical"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.example.guimbalino.pointapplication.MainActivity"
+    tools:showIn="@layout/activity_main">
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <FrameLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <ImageButton
+                    android:id="@+id/vibe"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/layer_2"
+                    android:focusable="true"
+                    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+                    tools:showIn="@layout/activity_main" />
+
+                <ImageView
+                    android:id="@+id/logo_vibe"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="end|top"
+                    android:layout_marginRight="16dp"
+                    android:layout_marginTop="10dp"
+                    android:background="@drawable/logovibe" />
+
+                <ImageView
+                    android:id="@+id/point_icone1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="end|bottom"
+                    android:layout_marginRight="16dp"
+                    android:layout_marginBottom="10dp"
+                    android:background="@drawable/point_iconecopy_2"/>
+
+                <ImageView
+                    android:id="@+id/retangulo_vibe"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="start|bottom"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginBottom="12dp"
+                    android:background="@drawable/rounded_rectangle_1"/>
+
+                <ImageView
+                    android:id="@+id/r70_vibe"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="start|bottom"
+                    android:layout_marginLeft="28dp"
+                    android:layout_marginBottom="15dp"
+                    android:background="@drawable/r70"/>
+
+                <ImageView
+                    android:id="@+id/nome_vibe"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="start|bottom"
+                    android:layout_marginLeft="60dp"
+                    android:layout_marginBottom="16dp"
+                    android:background="@drawable/clube_vibe"/>
+
+                <ImageView
+                    android:id="@+id/evento_vibe"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="start|bottom"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginBottom="35dp"
+                    android:background="@drawable/dexter_cane_dexter"/>
+
+            </FrameLayout>
+
+            <FrameLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <ImageButton
+                    android:id="@+id/btnShed"
+                    android:layout_width="match_parent"
+                    android:layout_height="220dp"
+                    android:background="@drawable/background"
+                    android:focusable="true"/>
+
+                <ImageView
+                    android:id="@+id/logo_shed"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="end|top"
+                    android:layout_marginRight="16dp"
+                    android:layout_marginTop="10dp"
+                    android:background="@drawable/logoshed"/>
+
+                <ImageView
+                    android:id="@+id/point_icone2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="end|bottom"
+                    android:layout_marginRight="16dp"
+                    android:layout_marginBottom="10dp"
+                    android:background="@drawable/point_iconecopy" />
+                <ImageView
+                    android:id="@+id/km_icone1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="end|bottom"
+                    android:layout_marginRight="30dp"
+                    android:layout_marginBottom="12dp"
+                    android:background="@drawable/_1_0_km" />
+
+                <ImageView
+                    android:id="@+id/retangulo_shed"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="start|bottom"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginBottom="12dp"
+                    android:background="@drawable/rounded_rectangle_1"/>
+
+                <ImageView
+                    android:id="@+id/r60_shed"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="start|bottom"
+                    android:layout_marginLeft="28dp"
+                    android:layout_marginBottom="15dp"
+                    android:background="@drawable/r60"/>
+
+                <ImageView
+                    android:id="@+id/nome_shed"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="start|bottom"
+                    android:layout_marginLeft="60dp"
+                    android:layout_marginBottom="16dp"
+                    android:background="@drawable/shed_western_bar"/>
+
+                <ImageView
+                    android:id="@+id/evento_shed"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="start|bottom"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginBottom="35dp"
+                    android:background="@drawable/munhoz_mariano"/>
+
+            </FrameLayout>
+
+            <FrameLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <ImageButton
+                    android:id="@+id/peppers"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/background_3"
+                    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+                    tools:context="com.example.guimbalino.pointapplication.MainActivity" />
+
+                <ImageView
+                    android:id="@+id/logo_peppers"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="end|top"
+                    android:layout_marginRight="16dp"
+                    android:layout_marginTop="10dp"
+                    android:background="@drawable/logopeppers" />
+
+                <ImageView
+                    android:id="@+id/point_icone3"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="end|bottom"
+                    android:layout_marginRight="16dp"
+                    android:layout_marginBottom="10dp"
+                    android:background="@drawable/point_iconecopy_3" />
+
+                <ImageView
+                    android:id="@+id/km_icone2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="end|bottom"
+                    android:layout_marginRight="30dp"
+                    android:layout_marginBottom="12dp"
+                    android:background="@drawable/_2_0_km" />
+
+                <ImageView
+                    android:id="@+id/retangulo_peppers"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="start|bottom"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginBottom="12dp"
+                    android:background="@drawable/rounded_rectangle_1"/>
+
+                <ImageView
+                    android:id="@+id/r20_peppers"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="start|bottom"
+                    android:layout_marginLeft="28dp"
+                    android:layout_marginBottom="15dp"
+                    android:background="@drawable/r20"/>
+
+                <ImageView
+                    android:id="@+id/nome_peppers"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="start|bottom"
+                    android:layout_marginLeft="60dp"
+                    android:layout_marginBottom="13dp"
+                    android:background="@drawable/peppers_bar"/>
+
+                <ImageView
+                    android:id="@+id/evento_pppers"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="start|bottom"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginBottom="35dp"
+                    android:background="@drawable/pepperland"/>
+
+            </FrameLayout>
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>
+
+
+
+
+
+
+

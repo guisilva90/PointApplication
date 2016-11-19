@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_tela_confirmacao"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/layer_1"
+    tools:context="com.example.guimbalino.pointapplication.TelaConfirmacao">
+
+    <ImageView
+        android:layout_width="257dp"
+        android:layout_height="281.7dp"
+        app:srcCompat="@drawable/point_iconecopy_4"
+        android:layout_marginTop="53dp"
+        android:id="@+id/imageView16"
+        android:layout_below="@+id/imageView15"
+        android:layout_centerHorizontal="true" />
+
+    <ImageView
+        android:layout_width="227.3dp"
+        android:layout_height="78dp"
+        app:srcCompat="@drawable/rounded_rectangle_3"
+        android:id="@+id/imageView18"
+        android:layout_below="@+id/imageView17"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="12dp" />
+
+    <ImageView
+        android:layout_width="82dp"
+        android:layout_height="44dp"
+        app:srcCompat="@drawable/l34"
+        android:layout_marginTop="16dp"
+        android:id="@+id/imageView19"
+        android:layout_alignTop="@+id/imageView18"
+        android:layout_centerHorizontal="true" />
+
+    <ImageView
+        android:layout_width="175dp"
+        android:layout_height="30.3dp"
+        app:srcCompat="@drawable/seucdigopoint"
+        android:layout_marginTop="13dp"
+        android:id="@+id/imageView17"
+        android:layout_below="@+id/imageView16"
+        android:layout_centerHorizontal="true" />
+
+    <ImageView
+        android:layout_width="258.7dp"
+        android:layout_height="51.3dp"
+        app:srcCompat="@drawable/d_i_v_i_r_t_a_s_e"
+        android:layout_marginTop="46dp"
+        android:id="@+id/imageView15"
+        android:layout_alignParentTop="true"
+        android:layout_alignStart="@+id/imageView16" />
+
+</RelativeLayout>

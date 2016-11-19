@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.Toolbar xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/toolbar"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/gradient">
+
+    <android.support.v7.widget.ButtonBarLayout
+        android:id="@+id/btnCal"
+        android:layout_width="15dp"
+        android:layout_height="16dp"
+        android:background="@drawable/vector_smart_object"
+        android:layout_gravity="start"
+        />
+    <android.support.v7.widget.ButtonBarLayout
+        android:id="@+id/btnPoint"
+        android:layout_width="16.7dp"
+        android:layout_height="16.7dp"
+        android:background="@drawable/point_icone"
+        android:layout_gravity="center"
+        />
+    <android.support.v7.widget.ButtonBarLayout
+        android:id="@+id/btnTag"
+        android:layout_width="13.3dp"
+        android:layout_height="13.3dp"
+        android:background="@drawable/vector_smart_object_2"
+        android:layout_gravity="end"
+        android:layout_marginRight="@dimen/fab_margin"
+        />
+
+
+</android.support.v7.widget.Toolbar>
