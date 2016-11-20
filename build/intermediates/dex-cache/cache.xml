@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/guimbalino/AndroidStudioProjects/PointApplication/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/home/guimbalino/AndroidStudioProjects/PointApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_278de4e09a9e47ed7daccf692c60ce0abb749fa3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/guimbalino/AndroidStudioProjects/PointApplication/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/home/guimbalino/AndroidStudioProjects/PointApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.0_f3b995bdc542b7cf6d799acd05a3e8a8d7537da7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/guimbalino/AndroidStudioProjects/PointApplication/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/home/guimbalino/AndroidStudioProjects/PointApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_a59bc2db491e0a8024d634e4d01b986e37640ae7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/guimbalino/AndroidStudioProjects/PointApplication/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="cc157969b53e3743789f158959999b3a0fc71b17">
+        <dex dex="/home/guimbalino/AndroidStudioProjects/PointApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_69abfc0e197d388745b15f3327d6bcd7632f62d8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/guimbalino/AndroidStudioProjects/PointApplication/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8a372c4191f80489770a231f7be4820b204b886a">
+        <dex dex="/home/guimbalino/AndroidStudioProjects/PointApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-25.0.0_677edc0d992b982d677bd5882662583a6b0be11e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/guimbalino/AndroidStudioProjects/PointApplication/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/home/guimbalino/AndroidStudioProjects/PointApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_2e00a577feea7c7818398192b18784f4a9327c24/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/guimbalino/AndroidStudioProjects/PointApplication/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/home/guimbalino/AndroidStudioProjects/PointApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.0_a10287e7ecc9261ca70253e051279e37e51c477d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/guimbalino/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/home/guimbalino/AndroidStudioProjects/PointApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-tasks-1.4.0_1309a4350375a01fb4c973c7a094689be1957189/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/guimbalino/AndroidStudioProjects/PointApplication/app/build/intermediates/exploded-aar/com.android.support/customtabs/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="94ba691efc31bf53264db0716d9c9ec03843ea31">
+        <dex dex="/home/guimbalino/AndroidStudioProjects/PointApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-customtabs-25.0.0_05d8f01c8116eddf5d3cd5f759ef1aa38c0ed545/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/guimbalino/AndroidStudioProjects/PointApplication/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/home/guimbalino/AndroidStudioProjects/PointApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.0_889de8164ec445ece1be6ebf3798d9f4f516f9d0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/guimbalino/AndroidStudioProjects/PointApplication/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.17.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="23c7c34bfb3cdc0599d49e581486b179bc6b2eee">
+        <dex dex="/home/guimbalino/AndroidStudioProjects/PointApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.android-facebook-android-sdk-4.17.0_e1005ac361038cbe2695a4365d833d6c190f2227/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/guimbalino/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.4.0/8ad21bf21784dacce5f2043afb97218cc377e835/bolts-applinks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="/home/guimbalino/AndroidStudioProjects/PointApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-applinks-1.4.0_5c176b3dc7795fb1f1758f9b179a58f2544c160f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/guimbalino/AndroidStudioProjects/PointApplication/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/home/guimbalino/AndroidStudioProjects/PointApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.0_bdc5842afa36fc64cd2ffc1b789ffd233f249047/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/guimbalino/AndroidStudioProjects/PointApplication/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/home/guimbalino/AndroidStudioProjects/PointApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.0_66de19336a3a86b214920449c133b5afd858d312/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/guimbalino/AndroidStudioProjects/PointApplication/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/home/guimbalino/AndroidStudioProjects/PointApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.0_917ecf5a862f75deecc3c006c8353300cc0590aa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/guimbalino/AndroidStudioProjects/PointApplication/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/home/guimbalino/AndroidStudioProjects/PointApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.0_3ec2d0ee005074f12640aeb969c6797b254492b6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/guimbalino/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/home/guimbalino/AndroidStudioProjects/PointApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.2_ee8b2ccd3f07e2f4039e0dd8fbdc6eb76c172d5c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/guimbalino/AndroidStudioProjects/PointApplication/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/guimbalino/AndroidStudioProjects/PointApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.0_6b394a9e5a1486cf0c478c59cea9e96fc2f65531/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/guimbalino/AndroidStudioProjects/PointApplication/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/home/guimbalino/AndroidStudioProjects/PointApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.0_38e7012eb6aa624ff0859cfb47335f4fdad85f90/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/guimbalino/AndroidStudioProjects/PointApplication/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="/home/guimbalino/AndroidStudioProjects/PointApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.4.0_c78d34eba1f0720cd5c0d52f46b72674e796c0aa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/guimbalino/AndroidStudioProjects/PointApplication/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/home/guimbalino/AndroidStudioProjects/PointApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.4.0_8fe56f95c26490bcbe1e606492cbf4c9e03b0e0e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/guimbalino/AndroidStudioProjects/PointApplication/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/home/guimbalino/AndroidStudioProjects/PointApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_91f67cc4c6af96094077dc5fb7207c7e43437a96/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/guimbalino/AndroidStudioProjects/PointApplication/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ae534ea0185a1b287eb23e499cd2338e18e08c85">
+        <dex dex="/home/guimbalino/AndroidStudioProjects/PointApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_3d827998d73c1d2d84e2c8d3113df6939133adcf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/guimbalino/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/home/guimbalino/AndroidStudioProjects/PointApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.0_9b13ba71bd34e275172cd50a6cfe05613bb5e038/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/guimbalino/AndroidStudioProjects/PointApplication/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/home/guimbalino/AndroidStudioProjects/PointApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_fcfec762311279a4133ce7affe81bbb661236e15/classes.dex" />
+    </item>
+
+</items>
